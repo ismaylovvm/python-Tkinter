@@ -1,2 +1,2 @@
 # python-Tkinter
- İlk Tkinter projelerimi barındırdığım Kütüphane
+ first python project
